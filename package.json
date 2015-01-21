@@ -1,0 +1,11 @@
+{
+  "name": "stem-btc",
+  "version": "1.0.0",
+  "description": "Stem plugin to fetch the latest BTC price in USD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Lazaro <me@alvinl.com>",
+  "license": "MIT"
+}
